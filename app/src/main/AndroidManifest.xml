@@ -16,7 +16,7 @@
         android:usesCleartextTraffic="true">
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyACC8NwTzBSqPo-p51RAFrcFwjrrfg2Bz4" />
+            android:value="<ENTER YOUR GOOGPLE MAPS API KEY>" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
